@@ -1,0 +1,5 @@
+{
+  "name": "PDF to Mind Map AI",
+  "description": "An AI-powered web app that reads any PDF file and converts it into a clickable, interactive mind map. Features an AI assistant to answer questions about the document content.",
+  "requestFramePermissions": []
+}
